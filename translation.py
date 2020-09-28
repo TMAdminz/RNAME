@@ -5,6 +5,8 @@ Your Using Telegram Best Rename Bot <a href='https://t.me/AI_RenameBot'><b>✒�
 
 I Can rename ✍ with custom thumbnail and upload as video/file
 
+**I am Very Happy to Say We Finally Increased Our Bot Speed , If You Need This Service Kindly Donate Us, Using /donate Thank You**
+
 Type /help for more details."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
