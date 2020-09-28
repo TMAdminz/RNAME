@@ -27,7 +27,7 @@ Type /help for more details."""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai <b><i>{}</i></b>, 
 
-I am Turbo Renamer bot ✍ by <a href='https://t.me/MonkAno'><b>MonkAno</b></a>
+I am AI RenameBot ✍ by <a href='https://t.me/MonkAno'><b>MonkAno</b></a>
     
 1. Send Me A Thumbnail.
 
@@ -36,9 +36,6 @@ I am Turbo Renamer bot ✍ by <a href='https://t.me/MonkAno'><b>MonkAno</b></a>
 3. Reply to that message with <code>/rename new name.extension</code>. with custom thumbnail support.\n(upload as file)
 
 4. Reply to that message with <code>/rename_vidoe new name.extension</code>. with custom thumbnail support.\n(uploading as Video)
-
-   
-<b>Thanks to <i><a href="https://t.me/MonkAno">Turbo Renamer 🙇</a></i> for his source code. check /about for source code</b>
 
 --------
 
