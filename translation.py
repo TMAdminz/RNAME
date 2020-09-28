@@ -1,11 +1,11 @@
 class Translation(object):
-    START_TEXT = """hai <i><b>{}</b></i>,
+    START_TEXT = """Hello! <i><b>{}</b></i>,
 
-Your Using Telegram Best Rename Bot <a href='https://t.me/AI_RenameBot'><b>✒️AI RENAME BOT🖋</b></a> bot
+Your are Using Telegram Best Rename Bot <a href='https://t.me/AI_RenameBot'><b>✒️AI RENAME BOT🖋</b></a> bot
 
 I Can rename ✍ with custom thumbnail and upload as video/file
 
-**I am Very Happy to Say We Finally Increased Our Bot Speed , If You Need This Service Kindly Donate Us, Using /donate Thank You**
+I am Very Happy to Say We Finally Increased Our Bot Speed , If You Need This Service Kindly Donate Us, Using /donate Thank You
 
 Type /help for more details."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
