@@ -117,8 +117,7 @@ async def rename_video(bot, update):
                 caption=f"<b>{file_name} \n\nShare and Support\n\n@SonyPictures_Tamil</b>",
                 supports_streaming=True,
                 duration=duration,
-                # reply_markup=reply_markup,
-                caption=descrption,
+                # reply_markup=reply_markup
                 thumb=thumb_image_path,
                 reply_to_message_id=update.reply_to_message.message_id,
                 progress=progress_for_pyrogram,
